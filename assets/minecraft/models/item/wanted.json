@@ -1,0 +1,17 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/wanted",
+		"particle": "item/wanted"
+	},
+	"elements": [
+		{
+			"from": [4, 2.5, 8],
+			"to": [12, 13.5, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 2.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}

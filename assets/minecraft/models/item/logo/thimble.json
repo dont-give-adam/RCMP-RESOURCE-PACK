@@ -1,0 +1,23 @@
+{
+	
+	"textures": {
+		"0": "item/thimble",
+		"particle": "item/thimble"
+	},
+	"elements": [
+		{
+			"from": [-12.5, 3, 8],
+			"to": [28.5, 13, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-12.5, 3, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 2], "texture": "#missing"},
+				"south": {"uv": [0, 0, 2, 2], "texture": "#missing"},
+				"west": {"uv": [0, 0, 0, 2], "texture": "#missing"},
+				"up": {"uv": [0, 0, 2, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 2, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {}
+}

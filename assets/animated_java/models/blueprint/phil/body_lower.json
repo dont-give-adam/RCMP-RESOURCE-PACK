@@ -1,0 +1,83 @@
+{
+	"textures": {
+		"2": "minecraft:item/philfight/texture",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [0.55172, -6.06897, 2.2069],
+			"to": [15.44828, 17.93103, 13.7931],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, -11.86207, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [1.5, 3.03226, 3.5, 6.5],
+					"texture": "#2"
+				},
+				"east": {
+					"uv": [0, 3.03226, 1.5, 6.5],
+					"texture": "#2"
+				},
+				"south": {
+					"uv": [5, 3.03226, 7, 6.5],
+					"texture": "#2"
+				},
+				"west": {
+					"uv": [3.5, 3.03226, 5, 6.5],
+					"texture": "#2"
+				},
+				"up": {
+					"uv": [3.5, 1.5, 1.5, 0],
+					"texture": "#2"
+				},
+				"down": {
+					"uv": [5.5, 0, 3.5, 1.5],
+					"texture": "#2"
+				}
+			}
+		},
+		{
+			"from": [1.37931, 8, 3.03448],
+			"to": [14.62069, 17.93103, 12.96552],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, -11.86207, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [8.5, 3, 10.5, 4.5],
+					"texture": "#2"
+				},
+				"east": {
+					"uv": [7, 3, 8.5, 4.5],
+					"texture": "#2"
+				},
+				"south": {
+					"uv": [12, 3, 14, 4.5],
+					"texture": "#2"
+				},
+				"west": {
+					"uv": [10.5, 3, 12, 4.5],
+					"texture": "#2"
+				},
+				"up": {
+					"uv": [10.5, 1.5, 8.5, 0],
+					"texture": "#2"
+				},
+				"down": {
+					"uv": [12.5, 0, 10.5, 1.5],
+					"texture": "#2"
+				}
+			}
+		}
+	]
+}

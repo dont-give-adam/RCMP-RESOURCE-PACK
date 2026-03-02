@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:blueprint/phil/left_hand",
+	"textures": {
+		"2": "minecraft:item/philfight/red",
+		"3": "minecraft:item/philfight/red_wing"
+	}
+}

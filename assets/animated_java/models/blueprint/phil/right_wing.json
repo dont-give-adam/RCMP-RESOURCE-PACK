@@ -1,0 +1,32 @@
+{
+	"textures": {
+		"3": "minecraft:item/philfight/wing",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [9.89928, 3.33813, 8.34532],
+			"to": [32, 14.38849, 8.34532],
+			"rotation": {
+				"angle": -22.5,
+				"axis": "y",
+				"origin": [10.58993, 6.79137, 8.34532]
+			},
+			"faces": {
+				"north": {
+					"uv": [16, 0, 0, 16],
+					"texture": "#3"
+				},
+				"south": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#3"
+				}
+			}
+		}
+	]
+}

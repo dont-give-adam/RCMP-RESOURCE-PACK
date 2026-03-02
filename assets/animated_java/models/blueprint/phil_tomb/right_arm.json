@@ -1,0 +1,48 @@
+{
+	"textures": {
+		"0": "minecraft:item/philfight/phil_tomb",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [7.415, 7.63008, 11.14008],
+			"to": [12.095, 15.43008, 15.82008],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 7.61, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [9, 11.5, 10, 13.5],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [8, 11.5, 9, 13.5],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [11, 11.5, 12, 13.5],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [10, 11.5, 11, 13.5],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [10, 11.5, 9, 10.5],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [11, 10.5, 10, 11.5],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

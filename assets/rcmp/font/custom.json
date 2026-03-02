@@ -1,0 +1,9 @@
+{"providers":[{"type":"bitmap","file":"minecraft:item/fakeemerald.png","ascent":400,"height":400,"chars":["\uAB3E"]},{"type":"bitmap","file":"minecraft:item/amethyst_shard.png","ascent":9,"height":10,"chars":["\uAB3B"]},{"type":"bitmap","file":"minecraft:item/allay.png","ascent":20,"height":20,"chars":["\uBB3B"]},{"type":"bitmap","file":"minecraft:item/skull.png","ascent":-10,"height":6,"chars":["\uBB2B"]},{"type":"bitmap","file":"minecraft:item/huntermark.png","ascent":5,"height":10,"chars":["\u2AC7"]},{"type":"bitmap","file":"minecraft:font/diamond.png","ascent":18   ,"height":23,"chars":["\u2AC8"]},{"type":"bitmap","file": "minecraft:item/jeb.png","ascent": 3,"height":100,"chars": ["\u2AC9"]} 
+
+
+
+,{"type":"bitmap","file": "minecraft:item/machine_textures/bomb_man_bg2.png","ascent": 0,"height":37,"chars": ["\u2ACA"]},
+{"type":"bitmap","file": "minecraft:item/machine_textures/bomb_man_bg3.png","ascent": 0,"height":37,"chars": ["\u2ACB"]},
+{"type":"bitmap","file": "minecraft:item/machine_textures/bomb_man_bg4.png","ascent": 0,"height":37,"chars": ["\u2ACC"]},
+{"type":"bitmap","file": "minecraft:font/catalogue.png","ascent": 0,"height":10,"chars": ["\u2ACD"]}
+]}

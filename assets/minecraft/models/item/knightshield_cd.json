@@ -1,0 +1,80 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "item/knightshield_cd",
+		"2": "item/knightshield_cd_handle",
+		"particle": "item/knightshield_cd"
+	},
+	"elements": [
+		{
+			"name": "shield",
+			"from": [-1, 8, -2],
+			"to": [1, 14, 4],
+			"faces": {
+				"north": {"uv": [1.5, 1.5, 2, 3], "texture": "#2"},
+				"east": {"uv": [0, 1.5, 1.5, 3], "texture": "#2"},
+				"south": {"uv": [3.5, 1.5, 4, 3], "texture": "#2"},
+				"west": {"uv": [3.5, 1.5, 2, 3], "texture": "#2"},
+				"up": {"uv": [2, 1.5, 1.5, 0], "texture": "#2"},
+				"down": {"uv": [2.5, 0, 2, 1.5], "texture": "#2"}
+			}
+		},
+		{
+			"name": "shield",
+			"from": [-6, 0, -3],
+			"to": [6, 22, -2],
+			"faces": {
+				"north": {"uv": [0.25, 0.25, 3.25, 5.75], "texture": "#1"},
+				"east": {"uv": [3.25, 0.25, 3.5, 5.75], "texture": "#1"},
+				"south": {"uv": [3.5, 0.25, 6.5, 5.75], "texture": "#1"},
+				"west": {"uv": [0, 0.25, 0.25, 5.75], "texture": "#1"},
+				"up": {"uv": [3.25, 0.25, 0.25, 0], "texture": "#1"},
+				"down": {"uv": [6.25, 0, 3.25, 0.25], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 0],
+			"translation": [-7, -5.25, 12]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, 0],
+			"translation": [-7, -5.25, -4]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 0, -5],
+			"translation": [5.5, -11.5, 11]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 0, -5],
+			"translation": [-10.5, -10, 11]
+		},
+		"gui": {
+			"rotation": [1, 163, 5],
+			"translation": [-4.5, -1.25, 0],
+			"scale": [0.7, 0.7, 0.6]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [0, 11, 1],
+			"color": 0,
+			"children": [
+				{
+					"name": "shield",
+					"origin": [0, 11, 1],
+					"color": 0,
+					"children": [0, 1]
+				}
+			]
+		},
+		{
+			"name": "group",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": []
+		}
+	]
+}

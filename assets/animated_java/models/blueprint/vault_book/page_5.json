@@ -1,0 +1,48 @@
+{
+	"textures": {
+		"0": "minecraft:item/vault_book/page_base",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [-2.44, 8, 0.92],
+			"to": [8, 8, 15.08],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 8, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 2.125, 0],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [0, 0, 3, 0],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [0, 0, 2.125, 0],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [0, 0, 3, 0],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [4.375, 5.875, 0, 0],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [4.5, 0, 8.875, 5.875],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}
