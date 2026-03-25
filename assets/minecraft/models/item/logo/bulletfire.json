@@ -1,8 +1,8 @@
 {
 	
 	"textures": {
-		"1": "item/bulletfire",
-		"particle": "item/arcade"
+		"1": "minecraft:item/bulletfire",
+		"particle": "minecraft:item/arcade"
 	},
 	"elements": [
 		{
@@ -11,11 +11,11 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [1.375, 3, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
-				"east": {"uv": [0, 0, 0, 2], "texture": "#missing"},
-				"south": {"uv": [0, 0, 2, 2], "texture": "#missing"},
-				"west": {"uv": [0, 0, 0, 2], "texture": "#missing"},
-				"up": {"uv": [0, 0, 2, 0], "texture": "#missing"},
-				"down": {"uv": [0, 0, 2, 0], "texture": "#missing"}
+				"east": {"uv": [0, 0, 0, 2], "texture": "#1"},
+				"south": {"uv": [0, 0, 2, 2], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 2], "texture": "#1"},
+				"up": {"uv": [0, 0, 2, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 2, 0], "texture": "#1"}
 			}
 		}
 	],
