@@ -1,13 +1,11 @@
 {
 	"pack": {
 		"pack_format": 76,
+		"min_format": 76,
+		"max_format": 99,
 		"description": {
 			"text": "Are Sea Em Pea",
 			"color": "green"
-		},
-		"supported_formats": {
-			"min_inclusive": 63,
-			"max_inclusive": 99
 		}
 	}
 }
