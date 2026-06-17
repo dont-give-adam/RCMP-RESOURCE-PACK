@@ -2,14 +2,14 @@
 	"formatVersion": "1.0.0",
 	"rigs": {
 		"hunter_trap": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
 			"versionedFiles": [
-				"assets/animated_java/models/empty.json",
 				"assets/animated_java/items/blueprint/hunter_trap/base.json",
-				"assets/animated_java/items/blueprint/hunter_trap/right.json",
 				"assets/animated_java/items/blueprint/hunter_trap/left.json",
+				"assets/animated_java/items/blueprint/hunter_trap/right.json",
 				"assets/animated_java/models/blueprint/hunter_trap/base.json",
-				"assets/animated_java/models/blueprint/hunter_trap/right.json",
-				"assets/animated_java/models/blueprint/hunter_trap/left.json"
+				"assets/animated_java/models/blueprint/hunter_trap/left.json",
+				"assets/animated_java/models/blueprint/hunter_trap/right.json"
 			]
 		},
 		"phil": {
