@@ -1,0 +1,31 @@
+{
+   "providers":
+        [
+           {"type":"bitmap","file":"scoops_inc:customer/satisfaction/0.png","ascent":32,"height":32,"chars":["\uF000"]},
+           {"type":"bitmap","file":"scoops_inc:customer/satisfaction/4.png","ascent":32,"height":32,"chars":["\uF004"]},
+           {"type":"bitmap","file":"scoops_inc:customer/satisfaction/8.png","ascent":32,"height":32,"chars":["\uF008"]},
+           {"type":"bitmap","file":"scoops_inc:customer/satisfaction/12.png","ascent":32,"height":32,"chars":["\uF012"]},
+           {"type":"bitmap","file":"scoops_inc:customer/satisfaction/16.png","ascent":32,"height":32,"chars":["\uF016"]},
+           {"type":"bitmap","file":"scoops_inc:customer/satisfaction/20.png","ascent":32,"height":32,"chars":["\uF020"]},
+           {"type":"bitmap","file":"scoops_inc:customer/satisfaction/24.png","ascent":32,"height":32,"chars":["\uF024"]},
+           {"type":"bitmap","file":"scoops_inc:customer/satisfaction/28.png","ascent":32,"height":32,"chars":["\uF028"]},
+           {"type":"bitmap","file":"scoops_inc:customer/satisfaction/32.png","ascent":32,"height":32,"chars":["\uF032"]},
+           {"type":"bitmap","file":"scoops_inc:customer/satisfaction/36.png","ascent":32,"height":32,"chars":["\uF036"]},
+           {"type":"bitmap","file":"scoops_inc:customer/satisfaction/40.png","ascent":32,"height":32,"chars":["\uF040"]},
+           {"type":"bitmap","file":"scoops_inc:customer/satisfaction/44.png","ascent":32,"height":32,"chars":["\uF044"]},
+           {"type":"bitmap","file":"scoops_inc:customer/satisfaction/48.png","ascent":32,"height":32,"chars":["\uF048"]},
+           {"type":"bitmap","file":"scoops_inc:customer/satisfaction/52.png","ascent":32,"height":32,"chars":["\uF052"]},
+           {"type":"bitmap","file":"scoops_inc:customer/satisfaction/56.png","ascent":32,"height":32,"chars":["\uF056"]},
+           {"type":"bitmap","file":"scoops_inc:customer/satisfaction/60.png","ascent":32,"height":32,"chars":["\uF060"]},
+           {"type":"bitmap","file":"scoops_inc:customer/satisfaction/64.png","ascent":32,"height":32,"chars":["\uF064"]},
+           {"type":"bitmap","file":"scoops_inc:customer/satisfaction/68.png","ascent":32,"height":32,"chars":["\uF068"]},
+           {"type":"bitmap","file":"scoops_inc:customer/satisfaction/72.png","ascent":32,"height":32,"chars":["\uF072"]},
+           {"type":"bitmap","file":"scoops_inc:customer/satisfaction/76.png","ascent":32,"height":32,"chars":["\uF076"]},
+           {"type":"bitmap","file":"scoops_inc:customer/satisfaction/80.png","ascent":32,"height":32,"chars":["\uF080"]},
+           {"type":"bitmap","file":"scoops_inc:customer/satisfaction/84.png","ascent":32,"height":32,"chars":["\uF084"]},
+           {"type":"bitmap","file":"scoops_inc:customer/satisfaction/88.png","ascent":32,"height":32,"chars":["\uF088"]},
+           {"type":"bitmap","file":"scoops_inc:customer/satisfaction/92.png","ascent":32,"height":32,"chars":["\uF092"]},
+           {"type":"bitmap","file":"scoops_inc:customer/satisfaction/96.png","ascent":32,"height":32,"chars":["\uF096"]},
+           {"type":"bitmap","file":"scoops_inc:customer/satisfaction/100.png","ascent":32,"height":32,"chars":["\uF100"]}
+        ]
+}
