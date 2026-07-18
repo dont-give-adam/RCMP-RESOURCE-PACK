@@ -1,0 +1,19 @@
+{
+    "providers": [
+        {
+            "type": "reference",
+            "id": "speechtools:include/space"
+        },
+        {
+            "type": "reference",
+            "id": "speechtools:include/default",
+            "filter": {
+                "uniform": false
+            }
+        },
+        {
+            "type": "reference",
+            "id": "speechtools:include/unifont"
+        }
+    ]
+}
