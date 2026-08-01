@@ -1,3 +1,13 @@
 {
-  "workstations.ice_cream.print_cone":{"sounds":["scoops_inc:workstations/ice_cream/print_cone"]}
+  "workstations.ice_cream.print_cone":{"sounds":["scoops_inc:workstations/ice_cream/print_cone"]},
+
+  "workstations.ice_cream.launch_projectile":{"sounds":["scoops_inc:workstations/ice_cream/launch_projectile"]},
+
+  "workstations.ice_cream.splat":{"sounds":["scoops_inc:workstations/ice_cream/splat"]},
+
+  "workstations.ice_cream.splat_short":{"sounds":["scoops_inc:workstations/ice_cream/splat_short"]},
+
+  "workstations.ice_cream.scoop_up":{"sounds":["scoops_inc:workstations/ice_cream/scoop_up"]}
+
+
 }
