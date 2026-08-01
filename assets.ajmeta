@@ -1,6 +1,27 @@
 {
 	"formatVersion": "1.0.0",
 	"rigs": {
+		"aj:scoops_inc_spoon": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/aj/items/blueprint/scoops_inc_spoon/scooper.json",
+				"assets/aj/items/blueprint/scoops_inc_spoon/spring1.json",
+				"assets/aj/items/blueprint/scoops_inc_spoon/spring2.json",
+				"assets/aj/items/blueprint/scoops_inc_spoon/spring3.json",
+				"assets/aj/items/blueprint/scoops_inc_spoon/spring4.json",
+				"assets/aj/items/blueprint/scoops_inc_spoon/spring5.json",
+				"assets/aj/items/blueprint/scoops_inc_spoon/spring6.json",
+				"assets/aj/models/blueprint/scoops_inc_spoon/scooper.json",
+				"assets/aj/models/blueprint/scoops_inc_spoon/spring1.json",
+				"assets/aj/models/blueprint/scoops_inc_spoon/spring2.json",
+				"assets/aj/models/blueprint/scoops_inc_spoon/spring3.json",
+				"assets/aj/models/blueprint/scoops_inc_spoon/spring4.json",
+				"assets/aj/models/blueprint/scoops_inc_spoon/spring5.json",
+				"assets/aj/models/blueprint/scoops_inc_spoon/spring6.json",
+				"assets/aj/textures/blueprint/scoops_inc_spoon/scooper.png",
+				"assets/aj/textures/blueprint/scoops_inc_spoon/spring.png"
+			]
+		},
 		"hunter_trap": {
 			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
 			"versionedFiles": [
