@@ -7,7 +7,12 @@
 
   "workstations.ice_cream.splat_short":{"sounds":["scoops_inc:workstations/ice_cream/splat_short"]},
 
-  "workstations.ice_cream.scoop_up":{"sounds":["scoops_inc:workstations/ice_cream/scoop_up"]}
+  "workstations.ice_cream.scoop_up":{"sounds":["scoops_inc:workstations/ice_cream/scoop_up"]},
 
+  "accuracy.ehh":{"sounds":["scoops_inc:accuracy/ehh"]},
+  "accuracy.ok":{"sounds":["scoops_inc:accuracy/ok"]},
+  "accuracy.good":{"sounds":["scoops_inc:accuracy/good"]},
+  "accuracy.great":{"sounds":["scoops_inc:accuracy/great"]},
+  "accuracy.perfect":{"sounds":["scoops_inc:accuracy/perfect"]}
 
 }
