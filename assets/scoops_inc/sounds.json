@@ -13,6 +13,8 @@
   "accuracy.ok":{"sounds":["scoops_inc:accuracy/ok"]},
   "accuracy.good":{"sounds":["scoops_inc:accuracy/good"]},
   "accuracy.great":{"sounds":["scoops_inc:accuracy/great"]},
-  "accuracy.perfect":{"sounds":["scoops_inc:accuracy/perfect"]}
+  "accuracy.perfect":{"sounds":["scoops_inc:accuracy/perfect"]},
+
+  "food_object.slide":{"sounds":["scoops_inc:food_object/slide"]}
 
 }
